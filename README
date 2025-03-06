@@ -1,0 +1,9 @@
+The Python code in this repository is open for anyone to copy and use/edit.
+
+--->Input Example: python3 quick_xy_plot.py example_inputs/*
+
+The typical .xy file format at EAL is: BIN#<SPACE><SPACE>COUNT#
+
+Hopefully this is helpful to you! ^_^
+
+-Cade S.
