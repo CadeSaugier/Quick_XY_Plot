@@ -80,7 +80,7 @@ def pull(data):
 				l=l+1
 			else:
 				break
-		l=l+2
+		l=l+1
 		binnum+=[int(read[i][:l])]
 		countnum+=[int(read[i][l:-1])]
 	return [binnum,countnum]
